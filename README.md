@@ -1,4 +1,4 @@
-# Geek brains, home work 1
+# Geek brains, JS Level1, home work 1
 Lipin Dima
 
 <script src="script.js"></script> - скрипт отрабатывает до загрузки страницы<br>
